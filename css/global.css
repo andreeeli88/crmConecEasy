@@ -79,4 +79,8 @@ hr{
     text-align: left;
     text-justify: auto;
 }
+.img-producto {
+    width: 500px;
+    height: 400px;
+}
 
